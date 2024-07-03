@@ -1,0 +1,17 @@
+Manzana - $1.4
+Pan - $2.7
+Leche - $1.7
+Huevos - $3.2
+Queso - $4.2
+Plátano - $1.0
+Yogur - $1.4
+Café - $5.2
+Té - $2.7
+Mantequilla - $3.7
+Pollo - $7.2
+Pescado - $9.2
+Arroz - $2.2
+Frijoles - $1.7
+Pasta - $2.0
+Fernet - $8000.0
+coca - $8555.0
